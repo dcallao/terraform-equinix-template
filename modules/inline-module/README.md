@@ -46,5 +46,4 @@ No modules.
 | Name | Description |
 |------|-------------|
 | <a name="output_metal_gateway_id"></a> [metal\_gateway\_id](#output\_metal\_gateway\_id) | The example output. In practice, output value reference implicit resource attributes declared in main.tf |
-
 <!-- END_TF_DOCS -->
